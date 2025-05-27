@@ -2,7 +2,7 @@
 
 # Olá, Sou Eduardo Souza Mattos! 👋
 
-Sou [Sua Área de Atuação - ex: estudante de Análise e Desenvolvimento de Sistemas, profissional em transição de carreira, etc.] com um grande interesse em [Suas Áreas de Interesse - ex: desenvolvimento web, ciência de dados, inteligência artificial, gestão de projetos].
+Sou profissional em transição de carreira com um grande interesse em desenvolvimento web, ciência de dados, inteligência artificial, gestão de projetos.
 
 Estou no início da minha jornada no desenvolvimento, focado(a) em adquirir novas habilidades e conhecimentos para construir uma carreira sólida em tecnologia. Atualmente, estou me aprofundando em [Tecnologias/Ferramentas que está aprendendo ou já tem algum contato, ex: Python, lógica de programação, banco de dados SQL].
 
@@ -31,7 +31,7 @@ Ainda estou construindo meu portfólio, mas em breve você encontrará aqui proj
 
 ### 👨‍💻 About Me
 
-I am a [Your Field of Study/Profession - e.g., Systems Analysis and Development student, professional in career transition, etc.] with a strong interest in [Your Areas of Interest - e.g., web development, data science, artificial intelligence, project management].
+I am a professional in career transition with a strong interest in web development, data science, artificial intelligence, project management.
 
 I'm at the beginning of my development journey, focused on acquiring new skills and knowledge to build a solid career in technology. Currently, I'm diving deep into [Technologies/Tools you are learning or have some contact with, e.g., Python, programming logic, SQL databases].
 
