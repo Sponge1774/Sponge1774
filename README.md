@@ -4,9 +4,9 @@
 
 Sou profissional em transição de carreira com um grande interesse em desenvolvimento web, ciência de dados, inteligência artificial, gestão de projetos.
 
-Estou no início da minha jornada no desenvolvimento, focado(a) em adquirir novas habilidades e conhecimentos para construir uma carreira sólida em tecnologia. Atualmente, estou me aprofundando em [Tecnologias/Ferramentas que está aprendendo ou já tem algum contato, ex: Python, lógica de programação, banco de dados SQL].
+Estou no início da minha jornada no desenvolvimento, focado(a) em adquirir novas habilidades e conhecimentos para construir uma carreira sólida em tecnologia. Atualmente, estou me aprofundando em Python e lógica de programação.
 
-Sou apaixonado(a) por [algo que te motive, ex: resolver problemas, aprender coisas novas, criar soluções que impactem pessoas] e busco minha primeira oportunidade para aplicar meus conhecimentos e crescer profissionalmente.
+Sou apaixonado(a) por resolver problemas, aprender coisas novas, criar soluções que impactem pessoas e busco minha primeira oportunidade para aplicar meus conhecimentos e crescer profissionalmente.
 
 ---
 
@@ -33,9 +33,9 @@ Ainda estou construindo meu portfólio, mas em breve você encontrará aqui proj
 
 I am a professional in career transition with a strong interest in web development, data science, artificial intelligence, project management.
 
-I'm at the beginning of my development journey, focused on acquiring new skills and knowledge to build a solid career in technology. Currently, I'm diving deep into [Technologies/Tools you are learning or have some contact with, e.g., Python, programming logic, SQL databases].
+I'm at the beginning of my development journey, focused on acquiring new skills and knowledge to build a solid career in technology. Currently, I'm diving deep into Python and programming logic.
 
-I am passionate about [something that motivates you, e.g., solving problems, learning new things, creating solutions that impact people] and I'm seeking my first opportunity to apply my knowledge and grow professionally.
+I am passionate about solving problems, learning new things, creating solutions that impact people and I'm seeking my first opportunity to apply my knowledge and grow professionally.
 
 ---
 
