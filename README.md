@@ -45,7 +45,11 @@ I am passionate about solving problems, learning new things, creating solutions 
 
 ### 🚀 My Projects
 
-I'm still building my portfolio, but soon you'll find here projects developed in courses and personal initiatives that demonstrate my learning and skills.
+#### 🛒 Data Modeling Project: Sales and Loyalty System
+
+This project demonstrates the creation and development of a **robust Data Model** to manage sales transactions and a supermarket's loyalty program. The main focus is using **SQL** to design tables, define relationships, and ensure data integrity, preparing them for BI (Business Intelligence) analysis.
+
+* **Repository Access:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql)
 
 ---
 
