@@ -12,7 +12,7 @@ Sou apaixonado(a) por resolver problemas, aprender coisas novas, criar soluçõe
 
 ### 🚀 Meus Projetos
 
-Ainda estou construindo meu portfólio, mas em breve você encontrará aqui projetos desenvolvidos em cursos e iniciativas pessoais que demonstram meu aprendizado e habilidades.
+# 🛒 Projeto de Modelagem de Dados: Sistema de Vendas e Fidelização
 
 ---
 
