@@ -12,7 +12,11 @@ Sou apaixonado(a) por resolver problemas, aprender coisas novas, criar soluçõe
 
 ### 🚀 Meus Projetos
 
-# 🛒 Projeto de Modelagem de Dados: Sistema de Vendas e Fidelização
+#### 🛒 Projeto de Modelagem de Dados: Sistema de Vendas e Fidelização
+
+Este projeto demonstra a criação e o desenvolvimento de um **Modelo de Dados** robusto para gerenciar transações de vendas e o programa de fidelidade de um supermercado. O foco principal é a utilização de **SQL** para projetar tabelas, definir relacionamentos e garantir a integridade dos dados, preparando-os para análises de BI (Business Intelligence).
+
+* **Acesso ao Repositório:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql)
 
 ---
 
