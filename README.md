@@ -18,7 +18,7 @@ Linguagens e Ferramentas: Python e SQL.
 
 Complementando essa formação, possuo um Curso Superior de Tecnologia em Gestão de Recursos Humanos (UNIFECAF), que agrega uma perspectiva valiosa em liderança e gestão, fortalecendo a compreensão do impacto humano nas soluções tecnológicas.
 
-Apaixonado(a) por transformar desafios complexos em soluções eficientes, estou em busca da minha primeira oportunidade em tecnologia para aplicar essa combinação única de conhecimento analítico, técnico e gerencial e contribuir para projetos inovadores.
+Apaixonado por transformar desafios complexos em soluções eficientes, estou em busca da minha primeira oportunidade em tecnologia para aplicar essa combinação única de conhecimento analítico, técnico e gerencial e contribuir para projetos inovadores.
 
 ---
 
