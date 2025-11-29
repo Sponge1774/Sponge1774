@@ -47,12 +47,23 @@ Este projeto demonstra a criação e o desenvolvimento de um **Modelo de Dados**
 
 ### 👨‍💻 About Me
 
-I am a professional in career transition with a strong interest in web development, data science, artificial intelligence, project management.
+I am a professional in career transition with a solid foundation in Exact Sciences, formalized by a Bachelor's Degree in Mathematics (UNESP Rio Claro) and a Master's Degree in Applied Mathematics (UNICAMP). This background provides me with advanced skills in logic, critical analysis, and complex problem-solving, which are essential for the technology industry.
 
-I'm at the beginning of my development journey, focused on acquiring new skills and knowledge to build a solid career in technology. Currently, I'm diving deep into Python and programming logic.
+My career transition is actively being solidified through the Technology Higher Education Course in Systems Analysis and Development (UNIFECAF, scheduled completion: Dec/2027). This program allows me to develop a holistic view of IT, covering:
 
-I am passionate about solving problems, learning new things, creating solutions that impact people and I'm seeking my first opportunity to apply my knowledge and grow professionally.
+Software Development: Deepening knowledge in Python and SQL, in addition to other Backend and Frontend languages.
 
+Infrastructure and Security: Knowledge in disciplines related to Hardware and Cybersecurity.
+
+Currently, my main focus areas for study and development in technology include:
+
+Languages and Tools: Python and SQL.
+
+Areas of Interest: Data Science, Artificial Intelligence, and IT Project Management.
+
+Complementing this technical education, I hold a Technology Higher Education Course in Human Resources Management (UNIFECAF), which adds a valuable perspective on leadership and management, strengthening my understanding of the human impact of technological solutions.
+
+Passionate about transforming initial complex challenges into efficient solutions, I am seeking my first opportunity in technology to apply this unique combination of analytical, technical, and managerial knowledge and contribute to innovative projects.
 ---
 
 ### 🚀 My Projects
