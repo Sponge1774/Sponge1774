@@ -2,11 +2,23 @@
 
 # Olá, Sou Eduardo Souza Mattos! 👋
 
-Sou profissional em transição de carreira com um grande interesse em desenvolvimento web, ciência de dados, inteligência artificial, gestão de projetos.
+Sou um profissional em transição de carreira com uma sólida base em Ciências Exatas, formalizada por um Bacharelado em Matemática (UNESP Rio Claro) e um Mestrado em Matemática Aplicada (UNICAMP). Essa formação me conferiu habilidades avançadas em lógica, análise crítica e resolução de problemas complexos, essenciais para o universo da tecnologia.
 
-Estou no início da minha jornada no desenvolvimento, focado(a) em adquirir novas habilidades e conhecimentos para construir uma carreira sólida em tecnologia. Atualmente, estou me aprofundando em Python e lógica de programação.
+Minha transição de carreira está sendo ativamente concretizada por meio do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (UNIFECAF, conclusão prevista para Dez/2027). Este curso me permite desenvolver uma visão holística em TI, abrangendo:
 
-Sou apaixonado(a) por resolver problemas, aprender coisas novas, criar soluções que impactem pessoas e busco minha primeira oportunidade para aplicar meus conhecimentos e crescer profissionalmente.
+Desenvolvimento de Software: Aprofundamento em Python e SQL, além de outras linguagens de Backend e Frontend.
+
+Infraestrutura e Segurança: Conhecimentos em disciplinas ligadas a Hardware e Cibersegurança.
+
+Atualmente, meus principais focos de estudo e desenvolvimento em tecnologia incluem:
+
+Linguagens e Ferramentas: Python e SQL.
+
+Áreas de Interesse: Ciência de Dados, Inteligência Artificial e Gestão de Projetos de TI.
+
+Complementando essa formação, possuo um Curso Superior de Tecnologia em Gestão de Recursos Humanos (UNIFECAF), que agrega uma perspectiva valiosa em liderança e gestão, fortalecendo a compreensão do impacto humano nas soluções tecnológicas.
+
+Apaixonado(a) por transformar desafios complexos em soluções eficientes, estou em busca da minha primeira oportunidade em tecnologia para aplicar essa combinação única de conhecimento analítico, técnico e gerencial e contribuir para projetos inovadores.
 
 ---
 
