@@ -64,6 +64,7 @@ Areas of Interest: Data Science, Artificial Intelligence, and IT Project Managem
 Complementing this technical education, I hold a Technology Higher Education Course in Human Resources Management (UNIFECAF), which adds a valuable perspective on leadership and management, strengthening my understanding of the human impact of technological solutions.
 
 Passionate about transforming initial complex challenges into efficient solutions, I am seeking my first opportunity in technology to apply this unique combination of analytical, technical, and managerial knowledge and contribute to innovative projects.
+
 ---
 
 ### 🚀 My Projects
