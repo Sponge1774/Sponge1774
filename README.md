@@ -28,7 +28,7 @@ Apaixonado por transformar desafios complexos em soluções eficientes, estou em
 
 Este projeto demonstra a criação e o desenvolvimento de um **Modelo de Dados** robusto para gerenciar transações de vendas e o programa de fidelidade de um supermercado. O foco principal é a utilização de **SQL** para projetar tabelas, definir relacionamentos e garantir a integridade dos dados, preparando-os para análises de BI (Business Intelligence).
 
-* **Acesso ao Repositório:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql)
+* **Acesso aos Repositórios:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql), [controle-estoque-python](https://github.com/Sponge1774/controle-estoque-python)
 
 ---
 
@@ -73,7 +73,7 @@ Passionate about transforming initial complex challenges into efficient solution
 
 This project demonstrates the creation and development of a **robust Data Model** to manage sales transactions and a supermarket's loyalty program. The main focus is using **SQL** to design tables, define relationships, and ensure data integrity, preparing them for BI (Business Intelligence) analysis.
 
-* **Repository Access:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql)
+* **Repositorys Access:** [modelagem_dados_ciclo_vendas_supermercado_sql](https://github.com/Sponge1774/modelagem_dados_ciclo_vendas_supermercado_sql), [controle-estoque-python](https://github.com/Sponge1774/controle-estoque-python)
 
 ---
 
